@@ -21,7 +21,7 @@ class Student:
 a=input()
 s=Student(a)
 s.print()
-
+```
 ## Output
 Saveetha
 Welcome Saveetha
